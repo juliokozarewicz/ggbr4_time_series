@@ -1,7 +1,7 @@
 --------------------------------------------------
 Descriptive analysis:
 
-Variable: GGBR4 (REAIS) (level)
+Variable: GGBR4 (REAL) (level)
 Mean: 15.73
 Median: 15.29
 Sample std: 6.12

@@ -1,4 +1,4 @@
-index_date,ggbr4_(reais)_observed,ggbr4_(reais)_fitted,ggbr4_(reais)_predicted,std_error,ci_95_lower,ci_95_upper
+index_date,ggbr4_(real)_observed,ggbr4_(real)_fitted,ggbr4_(real)_predicted,std_error,ci_95_lower,ci_95_upper
 2010-01-01,24.3708623160938,,,,,
 2010-02-01,24.0303321418947,25.06114629510842,,,,
 2010-03-01,24.8319680252542,27.997600459763373,,,,

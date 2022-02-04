@@ -1,9 +1,9 @@
                                      SARIMAX Results                                      
 ==========================================================================================
-Dep. Variable:                      ggbr4_(reais)   No. Observations:                  142
+Dep. Variable:                       ggbr4_(real)   No. Observations:                  142
 Model:             SARIMAX(2, 0, 0)x(1, 0, 0, 12)   Log Likelihood                -319.857
 Date:                            Fri, 04 Feb 2022   AIC                            655.714
-Time:                                    12:22:04   BIC                            679.361
+Time:                                    13:29:37   BIC                            679.361
 Sample:                                01-01-2010   HQIC                           665.323
                                      - 10-01-2021                                         
 Covariance Type:                              opg                                         

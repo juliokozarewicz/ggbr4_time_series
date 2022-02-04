@@ -1,7 +1,7 @@
 --------------------------------------------------
 ADF Results (level):
 
-Variable: GGBR4 (REAIS)
+Variable: GGBR4 (REAL)
 ADF Test: -1.298210
 P-value: 0.888371
 Lags: 0
