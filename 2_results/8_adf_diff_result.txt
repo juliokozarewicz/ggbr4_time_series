@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Nonseasonal differences needed for stationarity: 1
+
+Variable: GGBR4 (REAIS)
+ADF Test: -11.300535
+P-value: 0.000000
+Lags: 0
+Observations: 141
+Critical values:
+  1%: -4.024454
+  5%: -3.442098
+  10%: -3.145593
+--------------------------------------------------

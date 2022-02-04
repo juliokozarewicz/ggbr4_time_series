@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: GGBR4 (REAIS) (level)
+Mean: 15.73
+Median: 15.29
+Sample std: 6.12
+Variance: 37.48
+Lowest: 3.53
+Highest: 33.22
+--------------------------------------------------
